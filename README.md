@@ -277,7 +277,7 @@ Three noise levels and three initialization magnitudes were evaluated.
 
 ### Results Table
 
-| Noise σ (m) | Init | Final RMSE | Rotation Error (deg) | Translation Error (m) |
+| Noise σ (m) | Initial Misalignment | Final RMSE | Rotation Error (deg) | Translation Error (m) |
 |------------|------|------------|----------------------|----------------------|
 | 0.000 | Small | 0.0000 | 0.00 | 0.0000 |
 | 0.000 | Medium | 0.0000 | 0.00 | 0.0000 |
